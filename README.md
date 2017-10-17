@@ -19,6 +19,20 @@ enable_uart=1
 SNES mini: https://github.com/ruckage/es-theme-snes-mini  
 Retrorama:https://github.com/lipebello/es-theme-Retrorama  
 
+## Spashscreen  
+https://github.com/RetroPie/RetroPie-Setup/wiki/Splashscreen  
+
+/home/pi/RetroPie/splashscreens  
+  
+## Loading Screens  
+https://github.com/retropie/retropie-setup/wiki/runcommand#adding-custom-launching-images  
+
+"The images must be placed at /opt/retropie/configs/SYSTEM_NAME/ and named as launching.png (or .jpg).  
+
+Example: /opt/retropie/configs/nes/launching.jpg."  
+
+A more general launching image (not related to a specific system) can be named as /opt/retropie/configs/all/launching.jpg.  
+
 ## Bezels:  
 opt\retropie\emulators\retroarch\overlays\borders  
 
