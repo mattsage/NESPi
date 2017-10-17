@@ -16,7 +16,7 @@ enable_uart=1
 
 
 ## Theme:  
-SNES  
+SNES mini: https://github.com/ruckage/es-theme-snes-mini  
 Retrorama:https://github.com/lipebello/es-theme-Retrorama  
 
 ## Bezels:  
