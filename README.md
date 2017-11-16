@@ -42,7 +42,8 @@ Once you have the bezels installed open on retroarch and assign each one to each
 
 Download:  
 http://retropie.mrhariasbuilds.com  
-https://github.com/lipebello/retrorama-overlay-pack  
+https://github.com/lipebello/retrorama-overlay-pack
+https://github.com/UDb23/rpie-ovl
 
 ## Overlay:  
 CRT-PI-CURVATURE
